@@ -15,7 +15,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "davidas13.github.io/notes",
+    baseUrl: "davidas13.github.io",
     ignorePatterns: [
     ],
     defaultDateType: "created",
